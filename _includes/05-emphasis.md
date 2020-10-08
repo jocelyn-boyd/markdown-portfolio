@@ -1,4 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
 * Activities I currently enjoy doing 
   * Practicing Japanese on Duolingo and kanji on WaniKani
   * Working on my island in Animal Crossing New Horizons 
